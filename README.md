@@ -1,4 +1,4 @@
-# DIGIT Test Automation Framework Setup guide
+# UPYOG Test Automation Framework Setup guide
 ## Table of Contents
 * [About the Project](#about-the-project)
   * [Technology Used](#technology-used)
@@ -14,7 +14,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-DIGIT Test Automation framework majorly deals with various API services validation. It enables to test and validate back end services across all active environments and as well as tenant ids. For more details on framework architecture please refer the [documentation](https://digit-discuss.atlassian.net/wiki/spaces/EPE/pages/1028521985/Automation+Framework+Knowledge+Base). For guide on Kafka Producer Consumer approach, please refer to [documentation](https://digit-discuss.atlassian.net/wiki/spaces/DD/pages/1540587710/Kafka+Consumer+Producer+Approach)
+UPYOG Test Automation framework majorly deals with various API services validation. It enables to test and validate back end services across all active environments and as well as tenant ids.
  
 <!-- Technology Used -->
 ## Technology Used
